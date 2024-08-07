@@ -1,12 +1,47 @@
-## Hi there 👋
+# Task Manager
 
-<!--
+## Sobre
 
-**Here are some ideas to get you started:**
+O Task Manager é um projeto criado com o objetivo de proporcionar uma experiência prática e envolvente para programadores iniciantes, imergindo-os em um ambiente de desenvolvimento real, com a implementação de sprints e tarefas, assim como é o dia a dia de trabalho em uma equipe de desenvolvimento.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Motivação
+
+A inspiração para este projeto surgiu da experiência pessoal do desenvolvedor, que buscou uma maneira de ganhar experiência prática e se preparar para desafios reais sob pressão, sem a necessidade de um projeto "grande" para começar. Este projeto visa preencher essa lacuna, oferecendo uma plataforma onde os programadores podem colaborar, aprender e crescer em um ambiente que simula o trabalho em equipe de desenvolvimento de software.
+
+## Tecnologias Utilizadas
+
+- **Backend**: Desenvolvido em C# com o framework .NET, oferecendo uma base sólida e escalável para o gerenciamento de tarefas e sprints.
+- **Frontend**: Construído com Angular, utilizando TypeScript para garantir um código limpo e eficiente, proporcionando uma interface de usuário intuitiva e responsiva.
+
+## Como Contribuir
+
+Contribuições são sempre bem-vindas! Se você está interessado em contribuir para este projeto, por favor, siga estas etapas:
+
+1. Faça um fork do repositório.
+2. Crie uma branch com as suas alterações.
+3. Envie um Pull Request com as suas alterações.
+
+## Instalação e Uso
+
+Para instalar e utilizar o Task Manager, siga as instruções abaixo:
+
+### Backend
+
+1. Clone o repositório do backend.
+2. Execute `dotnet restore` para restaurar as dependências.
+3. Execute `dotnet run` para iniciar o servidor.
+
+### Frontend
+
+1. Clone o repositório do frontend.
+2. Execute `npm install` para instalar as dependências.
+3. Execute `ng serve` para iniciar o servidor de desenvolvimento.
+
+## Recursos Adicionais
+
+- [Backend ](https://github.com/Romulo-Queiroz/Task-Manager-Angular)
+- [Frontend](https://github.com/Romulo-Queiroz/Task-Manager-Backend)
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/seu-usuario/task-manager/LICENSE) para mais detalhes.
